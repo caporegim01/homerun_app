@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#1765C5"/>
+  <circle cx="256" cy="188" r="108" fill="none" stroke="#ffffff" stroke-width="24" opacity=".96"/>
+  <circle cx="256" cy="188" r="67" fill="none" stroke="#FF3D9A" stroke-width="20"/>
+  <path d="M176 196h160" stroke="#ffffff" stroke-width="22" stroke-linecap="round"/>
+  <path d="M214 151v88M256 137v102M298 151v88" stroke="#ffffff" stroke-width="18" stroke-linecap="round"/>
+  <text x="256" y="368" text-anchor="middle" font-family="Arial, sans-serif" font-size="82" font-weight="900" fill="#fff">홈런</text>
+  <text x="256" y="417" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="4" fill="#DCEBFF">HOMERUN</text>
+</svg>
