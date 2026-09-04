@@ -1,0 +1,22 @@
+{
+  "id": "./",
+  "name": "홈런 작업 전·후 보고서",
+  "short_name": "홈런보고서",
+  "description": "현장 작업 전·후 사진을 등록하고 A4 보고서를 생성하는 홈런 모바일 앱",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F7FB",
+  "theme_color": "#0B3471",
+  "orientation": "portrait-primary",
+  "lang": "ko-KR",
+  "categories": ["business", "productivity"],
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
