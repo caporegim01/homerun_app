@@ -1,0 +1,15 @@
+{
+  "name": "희성화학 작업 전·후 보고서",
+  "short_name": "희성화학보고",
+  "description": "희성화학 CI가 반영된 작업 전·후 보고 모바일 앱",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F7F8FB",
+  "theme_color": "#C2176F",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
